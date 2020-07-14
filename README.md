@@ -121,94 +121,94 @@ com.samsung.android.app.spage | Bixby home
 com.samsung.android.app.taskedge | Samsung Tasks edge
 com.samsung.android.app.tips | Samsung Tips
 com.samsung.android.app.watchmanagerstub | Wearable Manager
-com.samsung.android.ardrawing | 
-com.samsung.android.aremoji | 
-com.samsung.android.authfw | 
-com.samsung.android.bbc.bbcagent | 
-com.samsung.android.beaconmanager | 
-com.samsung.android.bixby.agent | 
-com.samsung.android.bixby.agent.dummy | 
-com.samsung.android.bixby.service | 
-com.samsung.android.bixby.wakeup | 
-com.samsung.android.bixbyvision.framework | 
-com.samsung.android.calendar | 
-com.samsung.android.cidmanager | 
-com.samsung.android.clipboarduiservice | 
-com.samsung.android.coldwalletservice | 
-com.samsung.android.contacts | 
-com.samsung.android.da.daagent | 
-com.samsung.android.dialer | 
-com.samsung.android.dqagent | 
-com.samsung.android.drivelink.stub | 
-com.samsung.android.dsms | 
-com.samsung.android.dynamiclock | 
-com.samsung.android.easysetup | 
-com.samsung.android.emojiupdater | 
-com.samsung.android.fmm | 
-com.samsung.android.forest | 
-com.samsung.android.game.gamehome | 
-com.samsung.android.game.gametools | 
-com.samsung.android.ipsgeofence | 
-com.samsung.android.kidsinstaller | 
-com.samsung.android.knox.analytics.uploader | 
-com.samsung.android.knox.containeragent | 
-com.samsung.android.knox.containercore | 
-com.samsung.android.location | 
-com.samsung.android.lool | 
-com.samsung.android.mateagent | 
-com.samsung.android.mdecservice | 
-com.samsung.android.mdm | 
-com.samsung.android.mdx | 
-com.samsung.android.mdx.quickboard | 
-com.samsung.android.mobileservice | 
-com.samsung.android.net.wifi.wifiguider | 
-com.samsung.android.networkdiagnostic | 
-com.samsung.android.provider.filterprovider | 
-com.samsung.android.rubin.app | 
-com.samsung.android.samsungpass | 
-com.samsung.android.samsungpassautofill | 
-com.samsung.android.samsungpositioning | 
-com.samsung.android.scloud | 
-com.samsung.android.sdm.config | 
-com.samsung.android.securitylogagent | 
-com.samsung.android.service.peoplestripe | 
-com.samsung.android.service.tagservice | 
-com.samsung.android.sm.devicesecurity | 
-com.samsung.android.sm.policy | 
-com.samsung.android.smartcallprovider | 
-com.samsung.android.smartfitting | 
-com.samsung.android.smartmirroring | 
-com.samsung.android.smartswitchassistant | 
-com.samsung.android.spayfw | 
-com.samsung.android.stickercenter | 
-com.samsung.android.svcagent | 
-com.samsung.android.svoiceime | 
-com.samsung.android.tapack.authfw | 
-com.samsung.android.themecenter | 
-com.samsung.android.themestore | 
-com.samsung.android.video | 
-com.samsung.android.visionarapps | 
-com.samsung.android.visionintelligence | 
-com.samsung.app.highlightplayer | 
-com.samsung.app.newtrim | 
-com.samsung.app.slowmotion | 
-com.samsung.clipboardsaveservice | 
-com.samsung.cmh | 
-com.samsung.crane | 
-com.samsung.faceservice | 
-com.samsung.ims.smk | 
-com.samsung.ipservice | 
-com.samsung.klmsagent | 
-com.samsung.knox.securefolder | 
-com.samsung.mlp | 
-com.samsung.rcs | 
-com.samsung.safetyinformation | 
-com.samsung.sait.sohservice | 
-com.samsung.sec.android.application.csc | 
-com.samsung.storyservice | 
-com.samsung.systemui.bixby2 | 
-com.samsung.ucs.agent.boot | 
-com.samsung.ucs.agent.ese | 
+com.samsung.android.ardrawing | Samsung AR Doodle
+com.samsung.android.aremoji | Samsung AR Emoji
+com.samsung.android.authfw | Authentication Framework
+com.samsung.android.bbc.bbcagent | N/A
+com.samsung.android.beaconmanager | Samsung SmartThings
+com.samsung.android.bixby.agent | Bixby
+com.samsung.android.bixby.agent.dummy | Bixby
+com.samsung.android.bixby.service | Bixby
+com.samsung.android.bixby.wakeup | Bixby
+com.samsung.android.bixbyvision.framework | Bixby
+com.samsung.android.calendar | Samsung Calendar
+com.samsung.android.cidmanager | CIDManager
+com.samsung.android.clipboarduiservice | ClipboardUIService, clipboard history
+com.samsung.android.coldwalletservice | Samsung Blockchain Keystore is a secure and convenient place to manage your private key used for cryptocurrency transactions
+com.samsung.android.contacts | Samsung Contacts
+com.samsung.android.da.daagent | Samsung Dual Messenger
+com.samsung.android.dialer | Samsung Phone
+com.samsung.android.dqagent | DQA Device Quality Agent
+com.samsung.android.drivelink.stub | CarmodeStub
+com.samsung.android.dsms | Dsms
+com.samsung.android.dynamiclock | Dynamic Lockscreen
+com.samsung.android.easysetup | Samsung Connect Easy Setup
+com.samsung.android.emojiupdater | Emoji Updater
+com.samsung.android.fmm | Samsung Find My Mobile
+com.samsung.android.forest | Download Digital Wellbeing & Parental Controls
+com.samsung.android.game.gamehome | Samsung Game Launcher
+com.samsung.android.game.gametools | Samsung Game Tools
+com.samsung.android.ipsgeofence | IpsGeofence
+com.samsung.android.kidsinstaller | Samsung Kids Installer
+com.samsung.android.knox.analytics.uploader | Knox Analytics Uploader
+com.samsung.android.knox.containeragent | Knox
+com.samsung.android.knox.containercore | KnoxCore
+com.samsung.android.location | Samsung Location
+com.samsung.android.lool | Samsung Device Care
+com.samsung.android.mateagent | Samsung Galaxy Friends
+com.samsung.android.mdecservice | Samsung Call & text on other devices (Call & Message Continuity) 
+com.samsung.android.mdm | Advanced Mobile Device Management
+com.samsung.android.mdx | Windows Service
+com.samsung.android.mdx.quickboard | Media and devices
+com.samsung.android.mobileservice | Samsung Experience Service
+com.samsung.android.net.wifi.wifiguider | Wi-Fi Tips
+com.samsung.android.networkdiagnostic | NetworkDiagnostic
+com.samsung.android.provider.filterprovider | Filter Provider
+com.samsung.android.rubin.app | Personalization Service Client
+com.samsung.android.samsungpass | Samsung Pass
+com.samsung.android.samsungpassautofill | Samsung Pass
+com.samsung.android.samsungpositioning | SamsungPositioning
+com.samsung.android.scloud | Samsung Cloud
+com.samsung.android.sdm.config | Configuration update
+com.samsung.android.securitylogagent | SecurityLogAgent
+com.samsung.android.service.peoplestripe | People edge
+com.samsung.android.service.tagservice | Tags
+com.samsung.android.sm.devicesecurity | Samsung device security
+com.samsung.android.sm.policy | SCPM client
+com.samsung.android.smartcallprovider | Samsung Smart Call
+com.samsung.android.smartfitting | SmartFittingService
+com.samsung.android.smartmirroring | Smart View
+com.samsung.android.smartswitchassistant | Smart Switch Assistant
+com.samsung.android.spayfw | Samsung Pay Framework
+com.samsung.android.stickercenter | StickerCenter
+com.samsung.android.svcagent | SVC Agent
+com.samsung.android.svoiceime | Samsung voice input
+com.samsung.android.tapack.authfw | AuthFw TaPack
+com.samsung.android.themecenter | Samsung Themes
+com.samsung.android.themestore | Samsung Themes
+com.samsung.android.video | Samsung Video Library
+com.samsung.android.visionarapps | Samsung Vision AR
+com.samsung.android.visionintelligence | Bixby Vision
+com.samsung.app.highlightplayer | Highlight video player
+com.samsung.app.newtrim | Samsung Video Trimmer
+com.samsung.app.slowmotion | Samsung slow motion editor
+com.samsung.clipboardsaveservice | ClipboardSaveService
+com.samsung.cmh | CMHProvider
+com.samsung.crane | Samsung Phone
+com.samsung.faceservice | FaceService
+com.samsung.ims.smk | SimMobilityKit
+com.samsung.ipservice | IPService
+com.samsung.klmsagent | KLMS Agent
+com.samsung.knox.securefolder | Knox Secure Folder
+com.samsung.mlp | mlp
+com.samsung.rcs | RCS Rich Communication Services
+com.samsung.safetyinformation | Safety Information
+com.samsung.sait.sohservice | SoHService
+com.samsung.sec.android.application.csc | CSC
+com.samsung.storyservice | Samsung Story Service
+com.samsung.systemui.bixby2 | Bixby
+com.samsung.ucs.agent.boot | bootagent
+com.samsung.ucs.agent.ese | eSE UCS Plugin
 com.sec.android.RilServiceModeApp | 
 com.sec.android.app.DataCreate | 
 com.sec.android.app.SecSetupWizard | 
