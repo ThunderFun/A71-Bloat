@@ -1,7 +1,7 @@
 ### A71-Bloat
 Remove Samsung A71 bloatware. 
 
-## USE THIS AT YOUR OWN RISK, I AM NOT RESPONSIBLE FOR ANY DAMAGES.
+## USE THIS AT YOUR OWN RISK
 Recommended for users who want to remove as much as they can without breaking main functionality. 
 
 ### Requirements
