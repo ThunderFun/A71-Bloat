@@ -286,4 +286,6 @@ adb shell "pm uninstall -k --user 0 com.google.android.overlay.modules.ext.servi
 adb shell "pm uninstall -k --user 0 com.android.pacprocessor"
 adb shell "pm uninstall -k --user 0 com.qualcomm.qti.services.systemhelper"
 adb shell "pm uninstall -k --user 0 com.sec.factory.cameralyzer"
-
+adb shell "pm uninstall -k --user 0 com.sec.android.autodoodle.service"
+adb shell "pm uninstall -k --user 0 com.google.android.as"
+adb shell "pm uninstall -k --user 0 com.google.android.overlay.modules.documentsui"
