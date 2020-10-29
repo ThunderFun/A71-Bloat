@@ -17,6 +17,9 @@ Recommended for users who want to remove as much as they can without breaking ma
 * Fullscreen gestures.
 * Quite a few Samsung features.
 
+### It might be missing some apps
+* Some apps are locked to your region. You will need to find the package name. I recommend apps_Packages from F-Droid. 
+
 First Header | Second Header
 ------------ | -------------
 com.android.bips | Default Print Service
@@ -306,3 +309,6 @@ com.google.android.overlay.modules.ext.services |
 com.android.pacprocessor |
 com.qualcomm.qti.services.systemhelper |
 com.sec.factory.cameralyzer |
+com.sec.android.autodoodle.service | 
+com.google.android.as | 
+com.google.android.overlay.modules.documentsui | 
