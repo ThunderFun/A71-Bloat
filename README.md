@@ -10,8 +10,8 @@ Recommended for users who want to remove as much as they can without breaking ma
 * A new keyboard if you're removing Samsung's keyboard. 
 * Alternatives to the Samsung SMS, phone, file manager apps, etc. 
 
-### Game Optimizing Service
-* There is unfortunately no way to remove this without root. 
+### Game Optimizing Service & Samsung Device Health Manager
+* There is unfortunately no way to remove these without root. 
 
 ### What is broken?
 * Fullscreen gestures.
